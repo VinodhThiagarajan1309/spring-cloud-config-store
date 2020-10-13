@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEV LIL B"
+example.property: "I AM IN THE DEV LIL B Now"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
